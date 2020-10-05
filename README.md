@@ -55,3 +55,20 @@ This project is based on:
 - [shadowsocksRR-windows](https://github.com/shadowsocksrr/shadowsocksr-csharp)
 - [Qv2ray](https://github.com/qv2ray/qv2ray)
 
+
+
+
+https://github.com/McDull-GitHub/trojan-qt5/releases/download/v1.4/Trojan-Qt5-Deb.deb
+https://github.com/McDull-GitHub/trojan-qt5/releases/download/v1.4/Trojan-Qt5-Deb.hash
+https://github.com/McDull-GitHub/trojan-qt5/releases/download/v1.4/Trojan-Qt5-Linux.7z
+https://github.com/McDull-GitHub/trojan-qt5/releases/download/v1.4/Trojan-Qt5-Linux.hash
+https://github.com/McDull-GitHub/trojan-qt5/releases/download/v1.4/Trojan-Qt5-macOS.dmg
+https://github.com/McDull-GitHub/trojan-qt5/releases/download/v1.4/Trojan-Qt5-macOS.hash
+https://github.com/McDull-GitHub/trojan-qt5/releases/download/v1.4/Trojan-Qt5-Windows.7z
+https://github.com/McDull-GitHub/trojan-qt5/releases/download/v1.4/Trojan-Qt5-Windows.7z.hash
+https://github.com/McDull-GitHub/trojan-qt5/releases/download/v1.4/Trojan-Qt5-Windows.exe
+https://github.com/McDull-GitHub/trojan-qt5/releases/download/v1.4/Trojan-Qt5-Windows.exe.hash
+https://github.com/McDull-GitHub/trojan-qt5/releases/download/v1.4/Trojan-Qt5-Windows.zip
+https://github.com/McDull-GitHub/trojan-qt5/releases/download/v1.4/Trojan-Qt5-Windows.zip.hash
+https://github.com/McDull-GitHub/trojan-qt5/archive/v1.4.zip
+https://github.com/McDull-GitHub/trojan-qt5/archive/v1.4.tar.gz
